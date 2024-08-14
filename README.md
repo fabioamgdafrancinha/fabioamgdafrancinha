@@ -1,16 +1,13 @@
-## Hi there 👋
+## Não tenha medo de ser diferente, tenha medo de ser igual a todos🍀
 
-<!--
-**fabioamgdafrancinha/fabioamgdafrancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é fabio
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguaguem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato sigua nois  📞
+
+mtz._.fabio15
+
+![](https://media1.tenor.com/m/OI7r9b2aHawAAAAC/basketball-mj.gif)
